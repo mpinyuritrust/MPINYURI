@@ -1,0 +1,41 @@
+
+
+/* Styling the container */
+.about-container {
+  max-width: 1200px;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Styling the heading */
+.about-heading {
+  font-size: 24px;
+  color: rgba(255, 255, 255, 0.895);
+  text-align:center;
+  margin-bottom: 20px;
+  background-color:#0099ff;
+}
+
+/* Styling the paragraph */
+.about-paragraph {
+  font-size:large;
+  color: rgba(255, 255, 255, 0.893);
+  line-height: 1.6;
+}
+.about-image {
+  height: 400px;
+  width: 100vh;
+  display:grid;
+  grid-template-columns:100% 100% ;
+}
+
+.about-image img
+{
+  margin:1% ;
+  width: 98%;
+  height: 98%;
+}
+.h1{
+  background-color:#0099ff;
+}
+
